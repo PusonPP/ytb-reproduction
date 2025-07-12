@@ -1,0 +1,6 @@
+edge_tts==7.0.2
+faster_whisper==1.1.1
+google_api_python_client==2.175.0
+Pillow==11.3.0
+protobuf==6.31.1
+yt_dlp==2025.6.30
