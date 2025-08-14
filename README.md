@@ -65,4 +65,5 @@ ls ~/.mozilla/firefox/
 
 ```python
 'cookiesfrombrowser': ('firefox', 'abcdefg.default-release'),
+'cookiesfrombrowser': ('firefox',),
 ```
